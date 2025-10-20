@@ -1,7 +1,7 @@
 # Bank Account Microservice - REST & GraphQL
 Watch the tutorial videos here:
-- 🎬 [Watch the demo video on YouTube](https://www.youtube.com/watch?v=2-qIoZcvhAw)
-- 🎬 [Watch the demo video on YouTube](https://www.youtube.com/watch?v=FsdR09jlqaE&list=PLDfq1dgDgzfKbYXOJX969jlGGy_Ns-C05&index=3)
+- 🎬 [Part 1 - Micro services - First Micro service REST Connector](https://www.youtube.com/watch?v=2-qIoZcvhAw)
+- 🎬 [Part 2 - Micro services - First Micro service GraphQL Connector](https://www.youtube.com/watch?v=FsdR09jlqaE&list=PLDfq1dgDgzfKbYXOJX969jlGGy_Ns-C05&index=3)
 
 ## Overview
 This project demonstrates the evolution of a Spring Boot microservice from RESTful API to GraphQL implementation. It starts with traditional REST endpoints and extends to include GraphQL for more flexible data querying.
